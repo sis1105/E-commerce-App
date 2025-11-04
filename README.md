@@ -1,4 +1,4 @@
-# E-Commerce App with Admin Panel and Mobile Integration
+# E-Commerce App using Admin Panel and Mobile Integration made with sis1105
 
 An all-in-one **E-commerce App** and **Admin Panel** built using AI-powered tools. This project is designed to help you create a professional, responsive, and fully functional e-commerce platform without writing complex code.  
 
